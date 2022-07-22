@@ -1,3 +1,6 @@
+body {
+    font-family: Helvetica;
+}
 .lcolumn {
     float: left;
     width: 25%;
