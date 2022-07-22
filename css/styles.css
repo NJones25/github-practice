@@ -1,7 +1,12 @@
-div {
-}
-.column {
+.lcolumn {
     float: left;
     width: 25%;
-    height: 20px;
+    height: 50px;
+    text-align: center;
+}
+.rcolumn {
+    float: left;
+    width: 75%;
+    height: 50px;
+    text-align: center;
 }
